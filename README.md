@@ -17,6 +17,18 @@ This project builds a secure, serverless contact form API using AWS Lambda and A
 - 🧭 **Route 53** – DNS routing for `form.deployjimmy.com`
 - 🚀 **CloudFront** – Secures and accelerates API endpoint traffic
 - 🛠️ **Manual Deployment** – Built and debugged without automation to showcase end-to-end understanding
+ 
+---
+## 📁 Project Structure
+
+```bash
+aws-s3-lambda-api-contactform/
+├── architecture/              # AWS architecture diagram (PNG)
+├── lambda/                    # Node.js Lambda function (API logic)
+├── static-site/               # Contact form HTML and optional CSS styling
+├── LICENSE
+└── README.md
+```
 
 ---
 
