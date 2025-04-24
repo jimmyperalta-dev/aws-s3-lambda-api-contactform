@@ -7,8 +7,7 @@
 ![CloudFront](https://img.shields.io/badge/CloudFront-232F3E?style=for-the-badge)
 ![Route53](https://img.shields.io/badge/Route53-8C4FFF?style=for-the-badge)
 
-🔗 **Live Endpoint:**  
-[https://ph2l1xbzrf.execute-api.us-east-1.amazonaws.com/prod/form](https://ph2l1xbzrf.execute-api.us-east-1.amazonaws.com/prod/form)
+🔗 **Not Live:** [https://ph2l1xbzrf.execute-api.us-east-1.amazonaws.com/prod/form](https://ph2l1xbzrf.execute-api.us-east-1.amazonaws.com/prod/form)(Note: This endpoint was active during development but has been decommissioned to avoid AWS charges. The screenshots demonstrate the working functionality.)
 
 ## 📋 Project Overview
 
@@ -114,6 +113,12 @@ Expected response:
 
 - [Static Website Deployment](https://github.com/jimmyperalta-dev/aws-ec2-s3-route53-webapp)
 - [EC2 Metrics Dashboard](https://github.com/jimmyperalta-dev/aws-ec2-monitoring-dashboard)
+
+---
+
+## </> Development Notes
+
+This project was developed with assistance from AI tools like Claude to code and enhance documentation quality. All implementations were validated and tested by me.
 
 ---
 
